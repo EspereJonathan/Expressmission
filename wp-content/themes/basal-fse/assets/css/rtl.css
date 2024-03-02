@@ -1,0 +1,71 @@
+.has-text-align-left {text-align: right;}
+.has-text-align-right {text-align:left;}
+.wp-block-navigation .wp-block-navigation-item ul {right:auto !important;}
+input[type="text"], input[type="email"], input[type="tel"], input[type="date"], input[type="number"], input[type="search"], input[type="url"], input[type="password"], textarea{ text-align:right;}
+.alignright {float:left !important;}
+.alignleft {float:right !important;}
+.basal-fse-better-taste-box .wp-block-image{ float:right;}
+.basal-fse-section7-left h2 {padding-right:0px !important;}
+.basal-fse-section8 .wp-block-column {padding:0px !important;}
+.basal-fse-section11-right .wp-block-column, .basal-fse-section11-right .wp-block-columns {border:none;}
+.basal-fse-footer-menu .wp-block-navigation__container li {padding-right:20px;}
+.basal-fse-footer-menu .wp-block-navigation__container li::before { left:auto; right:0px;}
+.basal-fse-footer-column .wp-block-column:nth-child(1) {padding-right:0px !important; padding-left:8%;}
+.basal-fse-blog-content {padding-left:20px !important; padding-right:30px !important;}
+.basal-fse-blog-right-side-page {padding-left:0px !important; padding-right:25px !important;}
+.basal-fse-contact-form .wp-block-group {padding-right:0px !important; padding-left:100px;}
+.basal-fse-blog-single-right-area {padding-left:0px !important; padding-right:25px !important;}
+.basal-fse-blog-single-left-area .wp-block-group ul, .basal-fse-blog-right-side-area .wp-block-group ul, .basal-fse-blog-widget-area .wp-block-group ul, .basal-fse-archive-right .wp-block-group ul{padding-right:15px !important; padding-left:0px !important;}
+.wpcf7-form p {text-align:right;}
+.basal-fse-service-menu {padding-right:0px !important; padding-left:60px !important;}
+.basal-fse-service-menu ul{ padding-left:0px !important; padding-right:25px !important;}
+.basal-fse-blog-left-side-area {padding-right:0px !important; padding-left:50px !important;}
+.basal-fse-archive-left {padding-right:0px !important; padding-left:60px !important;}
+.basal-fse-section9-box .wp-block-column:nth-child(2) {padding-left:0px !important; padding-right:15px !important;}
+.wp-block-navigation__submenu-container ul.wp-block-navigation__submenu-container {left:-100% !important;}
+.wp-block-navigation .wp-block-navigation-item ul {left:-100% !important;}
+.basal-fse-section7-right .wp-block-image{left: 0; right:auto;}
+.basal-fse-section11-left {margin:0px !important; margin-left:60px !important;}
+.basal-fse-section11-left .wp-block-group {padding-right:0px !important; padding-left:70px !important;}
+.basal-fse-menu-section::before { right:0px; left:auto;}
+.basal-fse-section5-left::after {right:0px; left:auto;}
+.basal-fse-home-contact input[type="text"], .basal-fse-home-contact input[type="email"], .basal-fse-home-contact input[type="tel"], .basal-fse-home-contact textarea{ text-align:right; padding-right:40px;}
+.basal-fse-contact-box {padding-right:0px !important;}
+.basal-fse-footer-menu .wp-block-navigation ul li, .basal-fse-footer-column .wp-block-navigation ul li {padding-right:20px;}
+.basal-fse-footer-menu .wp-block-navigation ul li::before, .basal-fse-footer-column .wp-block-navigation ul li::before {left:auto; right:0px; transform:rotate(180deg); top:0px;}
+.wp-block-navigation .wp-block-navigation__submenu-icon{ margin-left:0px; margin-right:10px;}
+.basal-fse-menu .wp-block-navigation ul ul .wp-block-navigation__submenu-icon{left: 15px; right:auto; transform:rotate(180deg);}
+.basal-fse-404 ul.wp-block-post-template li .wp-block-column {padding:0px 20px !important;}
+.basal-fse-pricing-box h6.wp-block-heading sub{left:auto; right:5px;}
+.basal-fse-business-social {padding-right:50px; padding-left:0px;}
+@media(max-width: 1023px){
+.basal-fse-better-taste-box .wp-block-image{ float:none;}
+.basal-fse-blog-right-side-page {padding-left:0px !important; padding-right:0px !important;}
+.basal-fse-contact-form .wp-block-group{ padding:0px !important;}
+.basal-fse-blog-single-right-area {padding-left:0px !important; padding-right:0px !important;}
+.basal-fse-pagination .wp-block-column, .basal-fse-pagination .post-navigation-link-next {text-align:center !important;}
+.basal-fse-blog-content{padding-right:0px !important; padding-left:0px !important;}
+.basal-fse-archive-left, .basal-fse-blog-left-side-area{ padding:0px !important;}
+.wp-block-columns:not(.is-not-stacked-on-mobile) > .wp-block-column.basal-fse-banner-content, .wp-block-columns:not(.is-not-stacked-on-mobile) > .wp-block-column.basal-fse-banner-image{ text-align:right;}
+.basal-fse-section11-left{ margin-left:0px !important;}
+.basal-fse-discount-box{ right:auto; left:-60px; padding-right:0px !important;}
+.basal-fse-section7-left {padding-bottom:60px !important;}
+.basal-fse-post-section .wp-block-post-date, .basal-fse-post-section h4.wp-block-post-title, .basal-fse-post-section .wp-block-post-excerpt {padding-right:0px !important;}
+.basal-fse-logo h1 {font-size:24px !important;}
+.basal-fse-business-social {padding-right:0px; padding-left:0px;}
+}
+
+@media(max-width: 599px){
+.basal-fse-header-menu {right:auto; left:0;}	
+.basal-fse-banner h2.has-text-color{ width:80%;}
+.basal-fse-team-section .wp-block-heading, .basal-fse-post-section .wp-block-heading {padding:0px !important; padding-bottom: 35px !important;}
+}
+
+@media (min-width: 781px) and (max-width: 1023px) {
+.basal-fse-contact-section-left h2.has-text-color {font-size:32px !important; padding-bottom: 0 !important;}
+.basal-fse-section4 h2.has-text-color {font-size:32px !important; }
+}
+
+@media (min-width: 1024px) and (max-width: 1440px) {
+.basal-fse-banner-content .wp-block-heading {padding:0px 200px !important;}
+}

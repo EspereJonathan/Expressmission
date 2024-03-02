@@ -1,0 +1,74 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Basal FSE\n"
+"POT-Creation-Date: 2024-01-05 19:02+0530\n"
+"PO-Revision-Date: 2024-01-05 19:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Theme Name of the plugin/theme
+#: includes/block-patterns.php:10
+msgid "Basal FSE"
+msgstr ""
+
+#: includes/block-patterns.php:11
+msgid "Basal FSE Theme Other Patterns"
+msgstr ""
+
+#: includes/patterns/basal-fse-footer.php:6
+msgid "Footer"
+msgstr ""
+
+#: includes/patterns/basal-fse-header.php:6
+msgid "Header"
+msgstr ""
+
+#: includes/patterns/basal-fse-hero-banner.php:6
+msgid "Hero Banner"
+msgstr ""
+
+#: includes/patterns/basal-fse-section1.php:6
+msgid "Home Section 1"
+msgstr ""
+
+#: includes/patterns/basal-fse-section2.php:6
+msgid "Welcome to Basal WordPrss Theme"
+msgstr ""
+
+#: includes/patterns/basal-fse-section3.php:6
+msgid "What We Offer?"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.pinnaclethemes.net/product/free-starter-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Launch your website with our versatile starter WordPress theme. Packed with "
+"features, it's customizable, responsive, and perfect for any project. Demo : "
+"https://www.pinnaclethemes.net/themedemos/basal-pro/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "sinsikha"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pinnaclethemes.net"
+msgstr ""
